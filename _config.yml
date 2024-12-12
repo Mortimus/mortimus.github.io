@@ -15,6 +15,7 @@ destination: ./_site
 permalink: /:title
 paginate: 3
 paginate_path: /page/:num/
+author: Mortimus
 
 show_downloads: false
 google_analytics: true
