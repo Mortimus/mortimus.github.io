@@ -1,5 +1,5 @@
 title: Mortimus
 description: A blog around my cybersecurity journey
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
