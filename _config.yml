@@ -1,5 +1,12 @@
 title: Mortimus
+tagline: A blog around my cybersecurity journey
 description: A blog around my cybersecurity journey
+tags:
+  - Cybersecurity
+  - Pentesting
+  - Red Team
+  - Hacking
+  - Offensive Cybersecurity
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
