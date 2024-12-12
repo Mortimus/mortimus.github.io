@@ -7,8 +7,19 @@ tags:
   - Red Team
   - Hacking
   - Offensive Cybersecurity
+
+baseurl: /
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page/:num/
+
 show_downloads: false
 google_analytics: true
 theme: jekyll-theme-hacker
-github:
-  is_project_page: false
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
