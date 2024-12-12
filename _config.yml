@@ -3,3 +3,5 @@ description: A blog around my cybersecurity journey
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-hacker
+github:
+  is_project_page: false
