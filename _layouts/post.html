@@ -9,6 +9,14 @@ layout: default
 
 {{content}}
 
+<div class="share-links">
+  {% include sharelinks.html %}
+</div>
+
+<div class="nav-links">
+  {% include navlinks.html %}
+</div>
+
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
